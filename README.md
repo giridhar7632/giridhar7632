@@ -1,11 +1,19 @@
-### Hi there 👋
+#### Hi there 👋
+### I'm Giridhar
 
-![Giridhar](https://cloud-ovtl68ypv-hack-club-bot.vercel.app/0cover-banner.png)
+#### 😀 About me:
+- 👦 he/him
+- 😇 19 yo
+- 🧑‍💻 full-stack developer
+- 🤩 interested in Web development, Elecronics and Space
+- 🎓 good at JavaScript, Python and C++
+- 💎 currently working on Ruby on Rails
+- 💖 loves  🎶 music, 🍱 food, 📽️ movies, and 📚 books
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/710151287332667483)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridhar.talla2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridhar7632/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_talla7632/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/giridhar)
+📬 You can get in touch with me via social media or by sending me an email!
 
-I'm **Giridhar**, I'm a Developer, Programmer and Electronics guy. I develop full-stack web applications using JavaScript and build software using Python and C/C++. I'm also interested in Elecronics and Space.
+#### 😎 Socials
+
+- 📧 [notebook.webdev@gmail.com](mailto:giridhar.talla2002@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/giridhar7632/)
+- 📸 [Instagram](https://www.instagram.com/notebook.webdev)
