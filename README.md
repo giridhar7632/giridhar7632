@@ -7,13 +7,14 @@
 - 🧑‍💻 full-stack developer
 - 🤩 interested in Web development, Elecronics and Space
 - 🎓 good at JavaScript, Python and C++
-- 💎 currently working on Ruby on Rails
-- 💖 loves  🎶 music, 🍱 food, 📽️ movies, and 📚 books
+- 💼 experienced in React, Node js
+- 💎 currently enjoying the process of learning [svelte](https://kit.svelte.dev/)
+- 💖 loves  🎶 music, 🍱 food, 📽️ dramas, and 📚 books
 
 📬 You can get in touch with me via social media or by sending me an email!
 
 #### 😎 Socials
 
-- 📧 [notebook.webdev@gmail.com](mailto:giridhar.talla2002@gmail.com)
+- 📧 [giridhar.talla2002@gmail.com](mailto:giridhar.talla2002@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/giridhar7632/)
 - 📸 [Instagram](https://www.instagram.com/notebook.webdev)
