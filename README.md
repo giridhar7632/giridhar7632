@@ -17,4 +17,5 @@
 
 - 📧 [giridhar.talla2002@gmail.com](mailto:giridhar.talla2002@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/giridhar7632/)
+- 🐦 [Twitter](https://twitter.com/giridhar_talla)
 - 📸 [Instagram](https://www.instagram.com/notebook.webdev)
