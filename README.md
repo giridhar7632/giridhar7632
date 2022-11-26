@@ -5,7 +5,7 @@
 - 👦 he/him
 - 😇 19 yo
 - 🧑‍💻 full-stack developer
-- 🤩 interested in Web development, Elecronics and Space
+- 🤩 interested in Web development, Electronics and Space
 - 🎓 good at JavaScript, Python and C++
 - 💼 experienced in React, Node js
 - 💎 currently enjoying the process of learning [svelte](https://kit.svelte.dev/)
