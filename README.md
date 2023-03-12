@@ -1,17 +1,13 @@
 #### Hi there 👋
-### I'm Giridhar
+
+![Giridhar Talla](https://user-images.githubusercontent.com/58158513/224543527-421ea1d3-5279-49ec-845d-1865e7ef7ef0.png)
+
 
 #### 😀 About me:
-- 👦 he/him
-- 😇 19 yo
-- 🧑‍💻 full-stack developer
 - 🤩 interested in Web development, Electronics and Space
 - 🎓 good at JavaScript, Python and C++
 - 💼 experienced in React, Node js
-- 💎 currently enjoying the process of learning [svelte](https://kit.svelte.dev/)
-- 💖 loves  🎶 music, 🍱 food, 📽️ dramas, and 📚 books
-
-📬 You can get in touch with me via social media or by sending me an email!
+- 💖 loves  🎶 music, 🌌 space, 🍱 food, 📽️ dramas, and 📚 books
 
 #### 😎 Socials
 
