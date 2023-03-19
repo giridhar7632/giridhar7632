@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-![Giridhar Talla](https://user-images.githubusercontent.com/58158513/224543527-421ea1d3-5279-49ec-845d-1865e7ef7ef0.png)
+[![Giridhar Talla](https://user-images.githubusercontent.com/58158513/224543527-421ea1d3-5279-49ec-845d-1865e7ef7ef0.png)](https://giridhar.pages.dev)
 
 
 #### 😀 About me:
@@ -11,6 +11,7 @@
 
 #### 😎 Socials
 
+- 🌐 [Personal website](https://giridhar.pages.dev)
 - 📧 [giridhar.talla2002@gmail.com](mailto:giridhar.talla2002@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/giridhar7632/)
 - 🐦 [Twitter](https://twitter.com/giridhar_talla)
