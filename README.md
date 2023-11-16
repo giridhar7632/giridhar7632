@@ -11,6 +11,7 @@
 
 #### 😎 Socials
 
+- 📝 [Blog](https://giridhartalla.medium.com)
 - 🌐 [Personal website](https://giridhar.pages.dev)
 - 📧 [giridhar.talla2002@gmail.com](mailto:giridhar.talla2002@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/giridhar7632/)
