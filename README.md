@@ -4,7 +4,7 @@
 
 
 #### 😀 About me:
-- 🤩 interested in Web development, Electronics and Space
+- 🤩 interested in Software development and Technical writing
 - 🎓 good at JavaScript, Python and C++
 - 💼 experienced in React, Node js
 - 💖 loves  🎶 music, 🌌 space, 🍱 food, 📽️ dramas, and 📚 books
