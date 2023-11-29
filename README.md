@@ -9,7 +9,7 @@
 - 💼 experienced in React, Node js
 - 💖 loves  🎶 music, 🌌 space, 🍱 food, 📽️ dramas, and 📚 books
 
-#### 😎 Socials
+#### 🖇️ Links
 
 - 📝 [Blog](https://giridhartalla.medium.com)
 - 🌐 [Personal website](https://giridhar.pages.dev)
