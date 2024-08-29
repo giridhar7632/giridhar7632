@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-[![Giridhar Talla](https://user-images.githubusercontent.com/58158513/224543527-421ea1d3-5279-49ec-845d-1865e7ef7ef0.png)](https://giridhar.pages.dev)
+<!-- [![Giridhar Talla](https://user-images.githubusercontent.com/58158513/224543527-421ea1d3-5279-49ec-845d-1865e7ef7ef0.png)](https://giridhar.pages.dev) -->
 
 
 #### 😀 About me:
